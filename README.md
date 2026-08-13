@@ -1,7 +1,7 @@
-## Hi there, I'm NIKITA WADT3RR👋
+## Hi there, I'm wadt3rr👋
 
-👀 Backend Developer  
-🪄 Building product systems & developer tools
+💻 Go Backend Developer & Computer Science student at UUST
+🛠️ Building product systems & developer tools
 
 I’m interested in backend architecture, microservices and clean APIs.  
 Currently focusing on **Go**, **TypeScript** and building platforms for real products.
